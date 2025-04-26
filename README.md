@@ -2,7 +2,12 @@
 
 ### Getting Started:
 - Run the fetch.sh for getting the csv data
+- python3 -m venv .venv
+- source .venv/bin/activate
+- pip install requirements.txt
+- fastapi dev app.py
 - Sample report is in Reports directory
+
 
 
 ### Improvements:

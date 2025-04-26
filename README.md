@@ -1,11 +1,11 @@
 # Generate Report
 
-###Getting Started:
+### Getting Started:
 - Run the fetch.sh for getting the csv data
 - Sample report is in Reports directory
 
 
-###Improvements:
+### Improvements:
 
 1. Can Improve the readibility(for sure):
     - Nesting can be reduce
